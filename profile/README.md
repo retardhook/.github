@@ -5,7 +5,7 @@ we’re a small, passionate team on a mission to change the software world, one 
 ## 🚀 our mission
 
 at ember.win, we’re all about:
-- **✨ providing free alternatives**: no more expensive software—get high-quality, free tools with us!
+- **✨ providing free alternatives**: no more expensive services—get high-quality, free services with us!
 - **🔒 prioritizing privacy**: your data is **yours**, and we keep it that way.
 - **📉 minimizing data collection**: we only gather what’s absolutely necessary to make sure our tools run smoothly, nothing more. 🐾
 
